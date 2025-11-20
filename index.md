@@ -6,7 +6,7 @@ header:
 
 # Welcome​
 
-<img src="https://github.com/ibarra617/Jekyll-for-Job-Market/blob/master/assets/images/'linked in photo'.jpg?raw=true" width="50%" hspace="20" align="right">
+<img src="https://github.com/ibarra617/Jekyll-for-Job-Market/blob/master/assets/images/fancyMission.jpg?raw=true" width="50%" hspace="20" align="right">
 
 *This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
 
