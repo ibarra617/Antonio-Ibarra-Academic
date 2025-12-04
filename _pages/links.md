@@ -1,20 +1,32 @@
 ---
-title: "Links"
-header:
-  image: /assets/images/niubanner2.png
+title: "Blog Posts"
+layout: single
 classes: wide
-permalink: /links/
+permalink: /blog/
+toc: true
+toc_label: "Blog Posts"
+toc_icon: "fas fa-book"
 ---
+The following posts are my blog reflections for 2025.
 
-# Northern Illinois University Links
-- [NIU Department of Economics](https://www.niu.edu/clas/econ/)
-- [NIU Institute for the Study of the Environment, Sustainability & Energy](https://www.niu.edu/clas/ese/)
-- [Blackboard Course Management System](https://webcourses.niu.edu/)
-- [NIU University Writing Center](https://www.niu.edu/academic-support/get-help/writing-center/index.shtml)
-- [NIU Office of the Ombudsperson](https://www.niu.edu/ombuds/index.shtml)
-- [71 North Pulse (Innovation Studio Newsletter)](https://71north.beehiiv.com/)
+## Blog Post 1
+- [Blog Post 1](/blog/blog1/)
 
-# Other Links of Interest
-- [NIU Football](https://niuhuskies.com/sports/football)
-- [NIU Men's Basketball](https://niuhuskies.com/sports/mens-basketball)
-- [NIU Women's Basketball](https://niuhuskies.com/sports/womens-basketball)
+## Week 2 Blog
+- [Week 2 Blog](/blog/week2/)
+
+## Blog Post 3
+- [Blog Post 3](/blog/blog3/)
+
+## Blog Post 4
+- [Blog Post 4](/blog/blog42/)
+
+## Blog Post 5
+- [Blog Post 5](/blog/blog5/)
+
+  ## Blog Post 6
+- [Blog Post 5](/blog/blog6/)
+
+  ## Blog Post 7
+- [Blog Post 5](/blog/blog7/)
+  
