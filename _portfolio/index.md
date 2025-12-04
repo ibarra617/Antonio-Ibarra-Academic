@@ -5,16 +5,19 @@ header:
 permalink: /portfolio/index.html
 ---
 
-*The following publications are fictional, and are only intended for this job market website demo.*
+# Open Source Contributions 
+Below are my current Open Source Contributions!
 
-# Research
+## Github Profile 
 
-<h2 id="publications">Publications</h2>
-Mission III, H. Husky, "The Impact of Mascot Presence on Athletic Performance: A Tail-Wagging Analysis," 2024. Journal of Collegiate Spirit, 15(3): 101-115. Keywords: school spirit, athletic performance, mascot influence, crowd psychology. 
+- **Username:** ibarra617
+- **Profile:** https://github.com/ibarra617
 
-
-  
-<h2 id="working-papers">Working Papers</h2> 
-  
-**Job Market Paper:** Mission III, J. Trainer, "Bark vs. Bite: Comparing Auditory and Visual Mascot Techniques for Maximum Crowd Engagement." Keywords: mascot techniques, crowd psychology, auditory stimuli, visual cues, sports marketing.
-[Download File]({{ site.baseurl }}/assets/docs/MissionJMP.pdf)
+## Notable Contributions 
+- **GDevelop Documentation** - Contributed improvements to documentation
+  Repository: [https://github.com/4ian/GDevelopApp](https://github.com/GDevelopApp/GDevelop-documentation)
+  - PR: [docs: fix minor grammar and punctuation in contributing.md](https://github.com/GDevelopApp/GDevelop-documentation/pull/383)
+- **Author:** @ibarra617
+- **Status:** Merged
+- **Reviewer:** Gdevelop Maintainers
+- **Notes:** Removed duplicated word, improved sentence clarity, and updated grammar in the contributing guidelines.
