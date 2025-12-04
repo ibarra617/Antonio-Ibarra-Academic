@@ -6,15 +6,9 @@ classes: wide
 permalink: /contact/
 ---
 
-*This page is fictional and created as part of a job market website demo in Jekyll.*
-
 ### Campus Office
 Northern Illinois University  
-Out on the Field  
 DeKalb, IL 60115-2825  
-
-###### Office Hours:  
-by appointment
-
+Phone: 773-397-5112 
 ### Email  
-![image of email]({{site.baseurl}}/assets/images/email.jpg)
+antonioibarra3400@gmail.com
