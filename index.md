@@ -8,16 +8,5 @@ header:
 
 <img src= "https://github.com/ibarra617/Antonio-Ibarra-Academic/blob/master/assets/images/linked_in_photo.jpg?raw=true" width="50%" hspace="20" align="right">
 
-*This unofficial profile was created as a demo of a job market website in Jekyll, hosted on GitHub Pages.*
-
-My name is Mission III, and I am the official Huskie mascot at Northern Illinois University.
-
-I am a Siberian Husky with striking blue eyes and beautiful black-and-white markings. My role includes boosting school spirit, entertaining crowds, and representing NIU at various events.
-
 ### Background
-
-I was born in British Columbia, Canada, and joined the NIU family when I was three months old. I come from a line of champion dogs known for their great temperaments and love for children. My breeder gave me special training to prepare me for my important role as a university mascot.
-
-Before coming to NIU, I received early socialization training to help me adapt to various situations. This included exposure to hats, coats, loud noises, and other novel experiences. I'm known for my bravery and eagerness to try new things, which are essential qualities for a mascot who often faces unexpected situations.
-
-When I'm not representing NIU at events, I enjoy playing with my toys, going for walks around campus, and meeting new people. I'm looking forward to fully stepping into my role and becoming an integral part of the Huskie Nation!
+I am a Junior studying Computer Science at Northern Illinois University. My passion for learning and making myself useful stems all the way from my childhood. I am passionate about expanding my knowledge on the latest technology and how it can be useful to our everyday lives. I am extremely passionate about making an impact in my community and pursuing opportunities that allow me to make a difference in today's society. Through my coursework here at NIU, I've established a strong foundation in Computer Science and am eager to apply my knowledge to the real world!
