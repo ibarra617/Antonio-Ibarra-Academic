@@ -7,7 +7,7 @@ main:
   - title: "Projects"
     url: /portfolio/
   - title: "Blog Posts"
-    url: /links/
+    url: /_blog/
   - title: "Contact"
     url: /contact/
   # - title: "Blog"
