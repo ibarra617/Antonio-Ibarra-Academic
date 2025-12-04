@@ -2,13 +2,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Curriculum Vitae"
+  - title: "Resume"
     url: /assets/docs/Resume-AntonioIbarra.pdf
-  - title: "Research"
+  - title: "Blog Posts"
     url: /portfolio/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Links"
+  - title: "Projects"
     url: /links/
   - title: "Contact"
     url: /contact/
