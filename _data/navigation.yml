@@ -4,9 +4,9 @@ main:
     url: /
   - title: "Resume"
     url: /assets/docs/Resume-AntonioIbarra.pdf
-  - title: "Blog Posts"
-    url: /portfolio/
   - title: "Projects"
+    url: /portfolio/
+  - title: "Blog Posts"
     url: /links/
   - title: "Contact"
     url: /contact/
