@@ -2,7 +2,7 @@
 title: "Blog Post 3"
 layout: single
 classes: wide
-permalink: /blog/blog2/
+permalink: /blog/blog3/
 ---
 
 # Blog Post 3
